@@ -7,15 +7,15 @@ This project aims to provide the performance of the airports in United Kingdoms 
 Airport Data :- The primary data file used for this analysis is named as " Airport_ Data " . This file contains the detaled information about the airports in UK.
 
 ### Tools Used
-Jupyter Notebook [ Data Cleaning]
-Power Bi [ Dashboard ]
+- Jupyter Notebook [ Data Cleaning]
+- Power Bi [ Dashboard ]
 
 ### Data Cleaning / Preparation
 In the intial data cleaning phase we performed the following tasks :-
 
-1.Data Loading and Inspection
-2.Handling out missing values 
-3.Formatting data & Data Cleaning
+* Data Loading and Inspection
+* Handling out missing values 
+* Formatting data & Data Cleaning
 
 ### Results & Findings
 1. I found the total no.of flights , no.of flights that are cancelled due to various reasons, no.of flights that are delayed and no.of flights that are on time in the last ten years.
